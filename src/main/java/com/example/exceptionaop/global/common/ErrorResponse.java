@@ -1,5 +1,6 @@
 package com.example.exceptionaop.global.common;
 
+import com.example.exceptionaop.global.exception.ExceptionCode.ExceptionCode;
 import jakarta.validation.ConstraintViolation;
 import java.util.List;
 import java.util.Set;
